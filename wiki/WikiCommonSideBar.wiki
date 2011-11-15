@@ -1,4 +1,3 @@
 #summary Common side bar wiki page
 
-<BR/>
 [WikiAboutNemusLauncher About NemusLauncher]
