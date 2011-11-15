@@ -2,14 +2,18 @@
 
 = !NemusLauncher =
 
-!NemusLauncher is a simple & fast launcher application for the Android<BR/>
-Android market link : https://market.android.com/details?id=com.nemustech.launcher
+!NemusLauncher is a simple & fast launcher application for the Android<BR>
+Android market link : http://market.android.com/details?id=com.nemustech.launcher
 
 
+= Supported Themes =
 
-= Screenshots =
+!NemusLauncher supports 3 types of theme:
+ * zip compressed theme
+   blah blah
+ * apk theme
+   blah blah
+ * sskin apk theme
+   blah blah
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+You need to have !NemusLauncher V1.x or higer to use themes.
