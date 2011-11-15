@@ -1,0 +1,5 @@
+#summary Using SSkin theme
+
+= SSkin theme =
+
+You can use SSkin themes that are already available (free or paid) on the Android Market.
