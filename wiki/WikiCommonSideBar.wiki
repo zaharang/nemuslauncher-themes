@@ -1,3 +1,4 @@
 #summary Common side bar wiki page
 
 [WikiAboutNemusLauncher About NemusLauncher]
+[WikiThemeMaking Theme Making]
