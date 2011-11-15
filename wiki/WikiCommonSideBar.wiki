@@ -1,4 +1,6 @@
 #summary Common side bar wiki page
 
 [WikiAboutNemusLauncher About NemusLauncher]<br>
-[WikiThemeMaking Theme Making]
+[WikiZipTheme Zip Theme]
+[WikiApkTheme Apk Theme]
+[WikiSSkinTheme SSkin Theme]
