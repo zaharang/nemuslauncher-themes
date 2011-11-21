@@ -38,6 +38,35 @@ Theme zip file should contain following files or/and sub folders.
  * icon folder
  * widget folder
 
-*info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't customize those UI elements with your theme.
+*info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't want to customize those UI elements with your theme.
 
+=== info.xml ===
+
+Mandatory file that specifies *theme name* and *target dpi*.
+
+Following is an info.xml excerption from a theme which is named "_!BlackAndWhite_" and has _240_ target dpi.
+{{{
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+
+<!-- Representative name that appears in the installed theme list -->
+<name>BlackAndWhite</name>
+
+<!-- target density : 120, 160, 240, 320
+120 : low density :
+160 : medium density : hTC G1 ...
+240 : high density : Google NexusOne, Google NexusS, Samsung Galaxy S2, Motorola Droid ...
+320 : ultra high density : Google GalaxyNexus ...
+-->
+<density>240</density>
+
+</info>
+}}}
+
+!NemusLauncher will not allow to apply your theme if it's target dpi doesn't match your current device's dpi.
+
+
+=== preview.png ===
+
+You're encouraged to include *preview.png* or *preview.jpg* because it is representative icon when you select a theme from all the installed theme list.
  
