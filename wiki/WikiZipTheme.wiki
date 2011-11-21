@@ -2,11 +2,35 @@
 
 = Zip compressed theme =
 
-blah blah
+Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by certain rules. You can use that zip file as a !NemusLauncher theme.
+
+== Themable items ==
+
+  * application icons
+  * workspace wallpaper image
+  * all apps list background image
+  * all apps button background & foreground images
+  * pagemarker images 
+  * images for !NemusLauncher INTERNAL widgets ( NOT Google !AppWidgets )
+
+== Zip file location ==
+
+Your theme zip file should be located as following
+
+{{{
+SDCARD_ROOT/nemuslauncher/themes/MY_BEAUTIFUL_THEME_NAME.zip
+or
+/mnt/sdcard/nemuslauncher/themes/My_fantastic_theme.zip
+}}}
+
+The exact file name can be WHATEVER you want, but must be ended with ".zip".
 
 
-= Details =
+== Zip file structure ==
 
+===
+
+Your theme zip file 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
