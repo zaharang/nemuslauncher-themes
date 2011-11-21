@@ -2,7 +2,7 @@
 
 = Zip compressed theme =
 
-Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by certain rules. You can use that zip file as a !NemusLauncher theme.
+Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by rules described by this document. You can use that zip file as a !NemusLauncher theme.
 
 == Themable items ==
 
@@ -37,5 +37,3 @@ Theme zip file should contain following files or/and sub folders.
  * drawable folder
  * icon folder
  * widget folder
-
-
