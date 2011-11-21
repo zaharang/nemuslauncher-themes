@@ -6,12 +6,12 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
 
 == Themable items ==
 
-  * application icons
-  * workspace wallpaper image
-  * all apps list background image
-  * all apps button background & foreground images
-  * pagemarker images 
-  * images for !NemusLauncher INTERNAL widgets ( NOT Google !AppWidgets )
+ * application icons
+ * workspace wallpaper image
+ * all apps list background image
+ * all apps button background & foreground images
+ * pagemarker images 
+ * images for !NemusLauncher *INTERNAL* widgets ( *NOT* Google !AppWidgets )
 
 == Zip file location ==
 
@@ -23,15 +23,19 @@ or
 /mnt/sdcard/nemuslauncher/themes/My_fantastic_theme.zip
 }}}
 
-The exact file name can be WHATEVER you want, but must be ended with ".zip".
+The exact file name can be *WHATEVER* you want, but must be ended with "*.zip*".
 
 
 == Zip file structure ==
 
-===
+Theme zip file should contain following files or/and sub folders.
 
-Your theme zip file 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * info.xml file
+ * preview.png or preview.jpg file
+ * wallpaper.png or wallpaper.jpg file
+ * allapps_bg.png or allapps_bg.jpg file
+ * drawable folder
+ * icon folder
+ * widget folder
+
+
