@@ -4,7 +4,7 @@
 
 Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by rules described by this document. You can use that zip file as a !NemusLauncher theme.
 
-== Themable items ==
+== Theme-able items ==
 
  * application icons
  * workspace wallpaper image
@@ -37,3 +37,7 @@ Theme zip file should contain following files or/and sub folders.
  * drawable folder
  * icon folder
  * widget folder
+
+*info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't customize those UI elements with your theme.
+
+ 
