@@ -13,6 +13,7 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
  * pagemarker images 
  * images for !NemusLauncher *INTERNAL* widgets ( *NOT* Google !AppWidgets )
 
+<br><br>
 == Zip file location ==
 
 Your theme zip file should be located as following
@@ -27,7 +28,7 @@ or
 
 The exact file name can be *WHATEVER* you want, but must be ended with "*.zip*".
 
-
+<br><br>
 == Zip file structure ==
 
 Theme zip file should contain following files or/and sub folders.
@@ -132,12 +133,11 @@ For the Rule 3, you can use predefined short name list as following.
 
 ----
 === widget folder ===
+TODO
 ----
 
 
-
-<br><br>
-== Overall zip file structure ==
+=== Overall ===
 
 <code>
 /
@@ -168,4 +168,6 @@ icon/
     com_facebook_katana_loginactivity.png
     com_nemustech_ncam_mainactivity.png
     ...(omitted)...
+widget/ 
+
 </code>
