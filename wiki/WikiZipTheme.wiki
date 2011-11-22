@@ -11,7 +11,6 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
  * all apps list background image
  * all apps button background & foreground images
  * pagemarker images 
- * images for !NemusLauncher *INTERNAL* widgets ( *NOT* Google !AppWidgets )
 
 <br><br>
 == Zip file location ==
