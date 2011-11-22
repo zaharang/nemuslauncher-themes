@@ -114,7 +114,7 @@ For the Rule 2, here you have some examples.
 ||!NemusCamera||`com.nemustech.ncam.MainActivity`||`com_nemustech_ncam_mainactivity.png`||
 
 Rule 2 happens to be the same as the naming rule of the ADW Launcher theme. You might want to reference the 
-[http://adwlauncher.wikia.com/wiki/Theme_Icon_Name_Database ADW theme icon name database].
+[http://adwlauncher.wikia.com/wiki/Theme_Icon_Name_Database#System_Apps ADW theme icon name database].
 
 <br><br>
 For the Rule 3, you can use predefined short name list as following.
