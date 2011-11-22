@@ -132,3 +132,40 @@ For the Rule 3, you can use predefined short name list as following.
 
 ----
 === widget folder ===
+----
+
+
+
+<br><br>
+== Overall zip file structure ==
+
+<code>
+/
+info.xml
+preview.jpg
+drawable/ 
+    wallpaper.jpg
+    allapps_bg.jpg
+    all_apps_button_bg_normal.png
+    all_apps_button_bg_press.png
+    all_apps_button_normal.png
+    applist_home_button.png
+    pagemarker.png
+    pagemarker_bg.png
+    pagemarker_more.png
+icon/ 
+    {{{_phone.png}}} 
+    {{{_contact.png}}} 
+    {{{_mms.png}}} 
+    {{{_gallery.png}}} 
+    {{{_camera.png}}} 
+    {{{_browser.png}}} 
+    {{{_calendar.png}}} 
+    {{{_music.png}}} 
+    {{{_email.png}}} 
+    {{{_setting.png}}} 
+    com_android_vending_assetbrowseractivity.png
+    com_facebook_katana_loginactivity.png
+    com_nemustech_ncam_mainactivity.png
+    ...(omitted)...
+</code>
