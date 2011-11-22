@@ -97,14 +97,15 @@ You're encouraged to include *preview.png* or *preview.jpg* because it is repres
 
 
  # icon image must be a "*.png*" image file
- # icon file name must come from the matching application's java class name with all the period character replaced by underscore character.
+ # icon file name must come from the matching application's java class name with all the period character replaced by underscore character and all lowercased.
  # for common factory installed applications, simplified short name can be used.
 
 
 For the Rule 2, here you have some examples.
 ||Application||Application class name||Theme icon file name||
+||Market||com.android.vending.assetbrowseractivity||com_android_vending_assetbrowseractivity.png||
 ||Facebook||com.facebook.katana.loginactivity||com_facebook_katana_loginactivity.png||
-
+||!NemusCamera||com.nemustech.ncam.!MainActivity||com_nemustech_ncam_mainactivity.png||
 
 
 
