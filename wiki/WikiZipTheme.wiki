@@ -79,15 +79,15 @@ You're encouraged to include *preview.png* or *preview.jpg* because it is repres
 *drawable* folder contains predefined GUI resources. The lists are as following.
 
 ||file name||preview||default GUI image||note||
-||wallpaper.png (or .jpg)|| || || ||
-||allapps_bg.png (or .jpg)|| || || ||
-||all_apps_button_bg_normal.png|| || || ||
-||all_apps_button_bg_press.png|| || || ||
-||all_apps_button_normal.png|| || || ||
-||applist_home_button.png|| || || ||
-||pagemarker.png|| || || ||
-||pagemarker_bg.png|| || || ||
-||pagemarker_more.png|| || || ||
+||`wallpaper.png (or .jpg)`|| || || ||
+||`allapps_bg.png (or .jpg)`|| || || ||
+||`all_apps_button_bg_normal.png`|| || || ||
+||`all_apps_button_bg_press.png`|| || || ||
+||`all_apps_button_normal.png`|| || || ||
+||`applist_home_button.png`|| || || ||
+||`pagemarker.png`|| || || ||
+||`pagemarker_bg.png`|| || || ||
+||`pagemarker_more.png`|| || || ||
 
 
 
