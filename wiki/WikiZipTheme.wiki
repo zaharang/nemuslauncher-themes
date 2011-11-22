@@ -17,11 +17,13 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
 
 Your theme zip file should be located as following
 
-{{{
+<br>
+<pre>
 SDCARD_ROOT/nemuslauncher/themes/MY_BEAUTIFUL_THEME_NAME.zip
 or
 /mnt/sdcard/nemuslauncher/themes/My_fantastic_theme.zip
-}}}
+</pre>
+<br>
 
 The exact file name can be *WHATEVER* you want, but must be ended with "*.zip*".
 
@@ -96,10 +98,18 @@ You're encouraged to include *preview.png* or *preview.jpg* because it is repres
 *icon* folder contains new themed icons for installed applications. You can make mappings from your new theme icons to the installed applications with the file naming rule that is described here.
 
 <br>
- ====icon file naming rule====
- # icon image must be a "*.png*" image file
- # icon file name must come from the matching application's java class name with all the period character replaced by underscore character and all lowercased.
- # for common factory installed applications, simplified short name can be used.
+<pre>
+Icon file naming rule
+
+1. Icon image must be a "*.png*" image file
+
+2. Icon file name must come from the java class name of matching application 
+  with all the period character replaced by underscore character
+  and all lowercased.
+
+3. For common factory installed applications, simplified short name can be used.
+</pre>
+
 
 <br><br>
 For the Rule 2, here you have some examples.
@@ -113,7 +123,7 @@ Rule 2 happens to be the same as the naming rule of the ADW Launcher theme. You 
 
 <br><br>
 For the Rule 3, you can use predefined short name list as following.
-||Application||Short file name||
+||Application||Short theme icon file name||
 ||Phone||`_phone.png`||
 ||Contact||`_contact.png`||
 ||Messsage||`_mms.png`||
