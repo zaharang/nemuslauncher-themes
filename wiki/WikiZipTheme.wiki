@@ -118,15 +118,15 @@ Rule 2 happens to be the same as the naming rule of the ADW Launcher theme. You 
 <br><br>
 For the Rule 3, you can use predefined short name list as following.
 ||Application||Short theme icon file name||
-||Phone||`_phone.png`||
-||Contact||`_contact.png`||
-||Messsage||`_mms.png`||
-||Gallery||`_gallery.png`||
-||Camera||`_camera.png`||
 ||Browser||`_browser.png`||
 ||Calendar||`_calendar.png`||
-||Music||`_music.png`||
+||Camera||`_camera.png`||
+||Contact||`_contact.png`||
 ||EMail||`_email.png`||
+||Gallery||`_gallery.png`||
+||Messsage||`_mms.png`||
+||Music||`_music.png`||
+||Phone||`_phone.png`||
 ||Setting||`_setting.png`||
 
 ----
@@ -149,15 +149,15 @@ drawable/
     pagemarker_bg.png
     pagemarker_more.png
 icon/ 
-    {{{_phone.png}}} 
-    {{{_contact.png}}} 
-    {{{_mms.png}}} 
-    {{{_gallery.png}}} 
-    {{{_camera.png}}} 
     {{{_browser.png}}} 
     {{{_calendar.png}}} 
-    {{{_music.png}}} 
+    {{{_camera.png}}} 
+    {{{_contact.png}}} 
     {{{_email.png}}} 
+    {{{_gallery.png}}} 
+    {{{_mms.png}}} 
+    {{{_music.png}}} 
+    {{{_phone.png}}} 
     {{{_setting.png}}} 
     com_android_vending_assetbrowseractivity.png
     com_facebook_katana_loginactivity.png
