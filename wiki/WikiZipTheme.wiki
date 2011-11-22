@@ -37,7 +37,6 @@ Theme zip file should contain following files or/and sub folders.
  * `preview.png` or `preview.jpg` file
  * `drawable` folder
  * `icon` folder
- * `widget` folder
 
 *info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't want to customize those UI elements with your theme.
 
@@ -132,9 +131,6 @@ For the Rule 3, you can use predefined short name list as following.
 ||Setting||`_setting.png`||
 
 ----
-=== widget folder ===
-TODO
-----
 
 
 === Overall ===
@@ -168,6 +164,4 @@ icon/
     com_facebook_katana_loginactivity.png
     com_nemustech_ncam_mainactivity.png
     ...(omitted)...
-widget/ 
-
 </code>
