@@ -32,13 +32,11 @@ The exact file name can be *WHATEVER* you want, but must be ended with "*.zip*".
 
 Theme zip file should contain following files or/and sub folders.
 
- * info.xml file
- * preview.png or preview.jpg file
- * wallpaper.png or wallpaper.jpg file
- * allapps_bg.png or allapps_bg.jpg file
- * drawable folder
- * icon folder
- * widget folder
+ * `info.xml` file
+ * `preview.png` or `preview.jpg` file
+ * `drawable` folder
+ * `icon` folder
+ * `widget` folder
 
 *info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't want to customize those UI elements with your theme.
 
@@ -100,13 +98,10 @@ You're encouraged to include *preview.png* or *preview.jpg* because it is repres
 <br>
 <pre>
 Icon file naming rule
-
 1. Icon image must be a "*.png*" image file
-
 2. Icon file name must come from the java class name of matching application 
   with all the period character replaced by underscore character
   and all lowercased.
-
 3. For common factory installed applications, simplified short name can be used.
 </pre>
 
