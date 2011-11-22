@@ -93,21 +93,25 @@ You're encouraged to include *preview.png* or *preview.jpg* because it is repres
 
 ----
 === icon folder ===
-*icon* folder contains new themed icons for installed applications. You can make mappings from your new theme icons to the installed applications with the file name rule that is described here.
+*icon* folder contains new themed icons for installed applications. You can make mappings from your new theme icons to the installed applications with the file naming rule that is described here.
 
-
+<br>
+ ====icon file naming rule====
  # icon image must be a "*.png*" image file
  # icon file name must come from the matching application's java class name with all the period character replaced by underscore character and all lowercased.
  # for common factory installed applications, simplified short name can be used.
 
-
+<br><br>
 For the Rule 2, here you have some examples.
 ||Application||Application class name||Theme icon file name||
 ||Market||`com.android.vending.assetbrowseractivity`||`com_android_vending_assetbrowseractivity.png`||
 ||Facebook||`com.facebook.katana.loginactivity`||`com_facebook_katana_loginactivity.png`||
 ||!NemusCamera||`com.nemustech.ncam.MainActivity`||`com_nemustech_ncam_mainactivity.png`||
 
+Rule 2 happens to be the same as the naming rule of the ADW Launcher theme. You might want to reference the 
+[http://adwlauncher.wikia.com/wiki/Theme_Icon_Name_Database ADW theme icon name database].
 
+<br><br>
 For the Rule 3, you can use predefined short name list as following.
 ||Application||Short file name||
 ||Phone||`_phone.png`||
