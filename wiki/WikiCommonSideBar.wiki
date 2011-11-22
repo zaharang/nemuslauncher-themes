@@ -6,3 +6,5 @@
 [WikiApkTheme Apk Theme]<br>
 
 [WikiSSkinTheme SSkin Theme]<br>
+
+[WikiThemeMixing Theme mixing]
