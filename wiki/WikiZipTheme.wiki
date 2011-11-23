@@ -164,3 +164,9 @@ icon/
     com_nemustech_ncam_mainactivity.png
     ...(omitted)...
 </code>
+
+<br><br>
+== Template zip file download ==
+
+ * Zip theme template containing default GUI
+ * Zip theme template containing example theme GUI
