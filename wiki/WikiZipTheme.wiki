@@ -12,8 +12,15 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
  * all apps button background & foreground images
  * pagemarker images 
 
+
 <br><br>
-== Zip file location ==
+== Template zip file downloads ==
+
+ * Zip theme template containing default GUI
+ * Zip theme template containing example theme GUI
+
+<br><br>
+== Zip file install location ==
 
 Your theme zip file should be located as following
 
@@ -165,8 +172,4 @@ icon/
     ...(omitted)...
 </code>
 
-<br><br>
-== Template zip file download ==
-
- * Zip theme template containing default GUI
- * Zip theme template containing example theme GUI
+<br>
