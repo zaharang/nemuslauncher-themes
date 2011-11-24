@@ -4,7 +4,7 @@
 
 !NemusLauncher is a simple & fast launcher application for the Android.<BR>
 
-http://nemuslauncher-themes.googlecode.com/files/nemuslauncher_screenshot.jpg
+http://nemuslauncher-themes.googlecode.com/files/nemuslauncherss.jpg
 
 Android market link : http://market.android.com/details?id=com.nemustech.launcher
 
