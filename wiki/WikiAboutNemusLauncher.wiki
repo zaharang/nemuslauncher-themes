@@ -15,13 +15,13 @@ Android market link : http://market.android.com/details?id=com.nemustech.launche
  * [WikiZipTheme Zip compressed theme]
   Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by certain rules. You can use that zip file as a !NemusLauncher theme.
 
- * [WikiApkTheme Apk theme]
+ * Apk theme (Comming soon)
   You can publish ( and sell !! if you want ) your theme on Google Market by building apk theme.
 
  * [WikiSSkinTheme SSkin apk theme]
   You can use sskin apk themes by purchasing theme on Google Market.
 
- * [WikiThemeMixing Theme mixing]
+ * Theme mixing (Comming soon)
   You can use multiple themes simultaneously.
 
 You need to have !NemusLauncher V1.x or higher to use themes.
