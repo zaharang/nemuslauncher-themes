@@ -2,7 +2,7 @@
 
 = SSkin theme =
 
-You can use SSkin themes that are already available (*free* or *paid*) on the Android Market.
+You can use high quality SSkin themes that are already available (*free* or *paid*) on the Android Market
 
  * SSkin search results from Android Market : [https://market.android.com/search?q=sskin https://market.android.com/search?q=sskin]
 
@@ -10,10 +10,14 @@ You can use SSkin themes that are already available (*free* or *paid*) on the An
 <pre>
 NOTE:
 
- SSkin themes are not made for !NemusLauncher and they are supposed to be used along with their dedicated "SSkin Butterfly Launcher".
-!NemusLauncher is just another "compatible" launcher for the SSkin themes and does not guarantee full functionality for the SSkin themes. 
+ SSkin themes are not made for !NemusLauncher and they are supposed to be used along with
+their dedicated "SSkin Butterfly Launcher". !NemusLauncher is just another "compatible" launcher
+for the SSkin themes and does not guarantee full functionality for the SSkin themes. 
 </pre>
 <br>
 
 
 === Screenshots ===
+
+<img href="http://nemuslauncher-themes.googlecode.com/files/sskin_pinocchio.png">
+<img href="http://nemuslauncher-themes.googlecode.com/files/sskin_africa.png">
