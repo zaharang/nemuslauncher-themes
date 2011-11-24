@@ -25,4 +25,4 @@ Android market link : http://market.android.com/details?id=com.nemustech.launche
  * Theme mixing (Comming soon)
   You can use multiple themes simultaneously.
 </wiki:comment>
-You need to have !NemusLauncher V1.x or higher to use themes.
+You need to have !NemusLauncher V1.2 or higher to use themes.
