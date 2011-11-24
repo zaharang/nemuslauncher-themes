@@ -3,8 +3,12 @@
 
 [WikiZipTheme Zip Theme]<br>
 
+<wiki:comment>
 [WikiApkTheme Apk Theme]<br>
+</wiki:comment>
 
 [WikiSSkinTheme SSkin Theme]<br>
 
+<wiki:comment>
 [WikiThemeMixing Theme mixing]
+</wiki:comment>
