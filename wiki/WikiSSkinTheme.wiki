@@ -19,5 +19,5 @@ for the SSkin themes and does not guarantee full functionality for the SSkin the
 
 === Screenshots ===
 
-<img href="http://nemuslauncher-themes.googlecode.com/files/sskin_pinocchio.png">
-<img href="http://nemuslauncher-themes.googlecode.com/files/sskin_africa.png">
+http://nemuslauncher-themes.googlecode.com/files/sskin_pinocchio.png
+http://nemuslauncher-themes.googlecode.com/files/sskin_africa.png
