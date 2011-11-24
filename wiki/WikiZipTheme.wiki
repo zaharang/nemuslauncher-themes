@@ -17,7 +17,7 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
 <br><br>
 == Template zip file downloads ==
 
- * Zip theme template containing default GUI
+ * [http://nemuslauncher-themes.googlecode.com/files/DefaultGUITheme_r1.zip Zip theme template containing default GUI]
  * Zip theme template containing example theme GUI
 
 <br><br>
