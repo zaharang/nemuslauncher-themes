@@ -89,16 +89,16 @@ http://nemuslauncher-themes.googlecode.com/files/ss3_overlay.png
 http://nemuslauncher-themes.googlecode.com/files/ss1_overlay.png
 http://nemuslauncher-themes.googlecode.com/files/ss2_overlay.png
 
-||file name||preview||note||
-||`wallpaper.png (or .jpg)`|| || ||
-||`allapps_bg.png (or .jpg)`|| || ||
-||`all_apps_button_bg_normal.png`|| A || normal background ||
-||`all_apps_button_bg_press.png`|| A || pressed background ||
-||`all_apps_button_normal.png`|| B || foreground ||
-||`applist_home_button.png`|| C || foreground ||
-||`pagemarker.png`|| D || active page ||
-||`pagemarker_bg.png`|| E || non-active page ||
-||`pagemarker_more.png`|| F || Meaning "there are more pages" ||
+||`file name`||`preview`||`note`||`pixel size (240density)`||
+||`wallpaper.png (or .jpg)`|| || ||`960 x 800`||
+||`allapps_bg.png (or .jpg)`|| || ||`480 x 745`||
+||`all_apps_button_bg_normal.png`|| `A` || `normal background` || `88 x 100` ||
+||`all_apps_button_bg_press.png`|| `A` || `pressed background` || `88 x 100` ||
+||`all_apps_button_normal.png`|| `B` || `foreground` || `72 x 72` ||
+||`applist_home_button.png`|| `C` || `foreground` || `72 x 72` ||
+||`pagemarker.png`|| `D` || `active page` || `15 x 15` ||
+||`pagemarker_bg.png`|| `E` || `non-active page` || `15 x 15` ||
+||`pagemarker_more.png`|| `F` || `Meaning "there are more pages"` || `15 x 15` ||
 
 
 ----
