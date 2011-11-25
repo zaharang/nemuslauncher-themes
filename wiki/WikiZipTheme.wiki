@@ -98,7 +98,7 @@ http://nemuslauncher-themes.googlecode.com/files/ss2_overlay.png
 ||`applist_home_button.png`|| `C` || `foreground` || `72 x 72` ||
 ||`pagemarker.png`|| `D` || `active page` || `15 x 15` ||
 ||`pagemarker_bg.png`|| `E` || `non-active page` || `15 x 15` ||
-||`pagemarker_more.png`|| `F` || `Meaning "there are more pages"` || `15 x 15` ||
+||`pagemarker_more.png`|| `F` || `Meaning 'more pages'` || `15 x 15` ||
 
 
 ----
