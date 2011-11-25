@@ -90,8 +90,8 @@ http://nemuslauncher-themes.googlecode.com/files/ss1_overlay.png
 http://nemuslauncher-themes.googlecode.com/files/ss2_overlay.png
 
 ||`file name`||`preview`||`note`||`pixel size (240density)`||
-||`wallpaper.png (or .jpg)`|| || ||`960 x 800`||
-||`allapps_bg.png (or .jpg)`|| || ||`480 x 745`||
+||`wallpaper.png (or .jpg)`|| || opaque image ||`960 x 800`||
+||`allapps_bg.png (or .jpg)`|| || translucency allowed ||`480 x 745`||
 ||`all_apps_button_bg_normal.png`|| `A` || `normal background` || `88 x 100` ||
 ||`all_apps_button_bg_press.png`|| `A` || `pressed background` || `88 x 100` ||
 ||`all_apps_button_normal.png`|| `B` || `foreground` || `72 x 72` ||
