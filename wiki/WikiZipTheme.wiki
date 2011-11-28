@@ -41,7 +41,7 @@ The exact file name can be *WHATEVER* you want, but must be ended with "*.zip*".
 Theme zip file should contain following files and sub folders.
 
  * `info.xml` file
- * `preview.png` or `preview.jpg` file
+ * `preview.jpg`, `preview2.jpg`, `preview3.jpg` file ( .png files also accepted )
  * `drawable` folder
  * `icon` folder
 
@@ -62,12 +62,15 @@ Following is an info.xml excerption from a theme which is named "_!BlackAndWhite
 <name>BlackAndWhite</name>
 
 <!-- target density : 120, 160, 240, 320
-120 : low density :
+120 : low density : Low end phones that have 240px x 320px screen.
 160 : medium density : hTC G1 ...
 240 : high density : Google NexusOne, Google NexusS, Samsung Galaxy S2, Motorola Droid ...
 320 : ultra high density : Google GalaxyNexus ...
 -->
 <density>240</density>
+
+<!-- The author of the theme -->
+<author>Nemustech</author>
 
 </info>
 }}}
@@ -75,9 +78,13 @@ Following is an info.xml excerption from a theme which is named "_!BlackAndWhite
 !NemusLauncher will not allow to apply your theme if it's target density doesn't match your current device's density.
 
 ----
-=== preview.png or preview.jpg===
+=== preview.jpg ===
 
-You're encouraged to include *preview.png* or *preview.jpg* because it is representative icon when you select a theme from all the installed theme list. preview file itself is not actual theme GUI component.
+As theme maker, you need the theme to contain preview images for the end user to recognize your theme easily. You can include *up to 3* preview files. Preview files themselves are not actual theme GUI component.
+
+ * `preview.jpg (or preview.png)`
+ * `preview2.jpg (or preview2.png)`
+ * `preview3.jpg (or preview3.png)`
 
 <br>
 http://nemuslauncher-themes.googlecode.com/files/ss3_overlay.png
