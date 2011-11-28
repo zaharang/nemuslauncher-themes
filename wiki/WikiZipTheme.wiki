@@ -165,6 +165,8 @@ For the Rule 3, you can use predefined short name list as following.
 /
 info.xml
 preview.jpg
+preview2.jpg
+preview3.jpg
 drawable/ 
     wallpaper.jpg
     allapps_bg.jpg
