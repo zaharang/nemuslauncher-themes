@@ -42,8 +42,8 @@ Theme zip file should contain following files and sub folders.
 
  * `info.xml` file
  * `preview.jpg`, `preview2.jpg`, `preview3.jpg` file ( .png files also accepted )
- * `drawable` folder
- * `icon` folder
+ * `images` folder
+ * `application_icons` folder
 
 *info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't want to customize those UI elements with your theme.
 
@@ -61,16 +61,19 @@ Following is an info.xml excerption from a theme which is named "_!BlackAndWhite
 <!-- Representative name that appears in the installed theme list -->
 <name>BlackAndWhite</name>
 
+<!-- Author of the theme -->
+<author>Nemustech</author>
+
+<!-- Short description about theme -->
+<description>A sample theme for NemusLauncher</description>
+
 <!-- target density : 120, 160, 240, 320
-120 : low density : Low end phones that have 240px x 320px screen.
-160 : medium density : hTC G1 ...
-240 : high density : Google NexusOne, Google NexusS, Samsung Galaxy S2, Motorola Droid ...
-320 : ultra high density : Google GalaxyNexus ...
+120 : low density : Low end phones (240px x 320px screen)
+160 : medium density : hTC G1 (320px x 480px screen)
+240 : high density : NexusOne, NexusS, Galaxy S2, Droid (480px x 800px)
+320 : ultra high density : GalaxyNexus (720px x 1280px)
 -->
 <density>240</density>
-
-<!-- The author of the theme -->
-<author>Nemustech</author>
 
 </info>
 }}}
@@ -90,27 +93,30 @@ As theme maker, you need the theme to contain preview images for the end user to
 http://nemuslauncher-themes.googlecode.com/files/ss3_overlay.png
 
 ----
-=== drawable folder ===
-*drawable* folder contains predefined GUI resources. The lists are as following.
+=== images folder ===
+*images* folder contains predefined GUI resources. The lists are as following.
 
 http://nemuslauncher-themes.googlecode.com/files/ss1_overlay.png
 http://nemuslauncher-themes.googlecode.com/files/ss2_overlay.png
 
 ||`file name`||`preview`||`note`||`pixel size (240density)`||
-||`wallpaper.png (or .jpg)`|| || opaque image ||`960 x 800`||
-||`allapps_bg.png (or .jpg)`|| || translucency allowed ||`480 x 745`||
-||`all_apps_button_bg_normal.png`|| `A` || `normal background` || `88 x 100` ||
-||`all_apps_button_bg_press.png`|| `A` || `pressed background` || `88 x 100` ||
-||`all_apps_button_normal.png`|| `B` || `foreground` || `72 x 72` ||
-||`applist_home_button.png`|| `C` || `foreground` || `72 x 72` ||
-||`pagemarker.png`|| `D` || `active page` || `15 x 15` ||
-||`pagemarker_bg.png`|| `E` || `non-active page` || `15 x 15` ||
-||`pagemarker_more.png`|| `F` || `Meaning 'more pages'` || `15 x 15` ||
+||`home_wallpaper.jpg`|| || opaque image ||`960 x 800`||
+||`home_home2apps_button.png`|| || || ||
+||`home_home2apps_button_pressed.png`|| || || ||
+||`home_pagemarker.png`|| || `not current page` || `15 x 15` ||
+||`home_pagemarker_selected.png`|| || `current page` || `15 x 15` ||
+||`home_pagemarker_more.png`|| || `Meaning 'more pages'` || `15 x 15` ||
+||`apps_wallpaper.jpg`|| || opaque image ||`480 x 745`||
+||`apps_apps2home_button.png`|| `A` ||  || `88 x 100` ||
+||`apps_apps2home_button_pressed.png`|| `A` || `pressed state` || `88 x 100` ||
+||`apps_pagemarker.png`|| `D` || `not current page` || `15 x 15` ||
+||`apps_pagemarker_bg.png`|| `E` || `current page` || `15 x 15` ||
+||`apps_pagemarker_more.png`|| `F` || `Meaning 'more pages'` || `15 x 15` ||
 
 
 ----
-=== icon folder ===
-*icon* folder contains new themed icons for installed applications. You can make mappings from your new theme icons to the installed applications with the file naming rule that is described here.
+=== application_icons folder ===
+*application_icons* folder contains new themed icons for installed applications on the end user's device. You can make mappings from your new theme icons to the installed applications with the file naming rule that is described here.
 
 
 ||`target density of theme`||`icon file pixel size`||
@@ -167,17 +173,20 @@ info.xml
 preview.jpg
 preview2.jpg
 preview3.jpg
-drawable/ 
-    wallpaper.jpg
-    allapps_bg.jpg
-    all_apps_button_bg_normal.png
-    all_apps_button_bg_press.png
-    all_apps_button_normal.png
-    applist_home_button.png
-    pagemarker.png
-    pagemarker_bg.png
-    pagemarker_more.png
-icon/ 
+images/ 
+    home_wallpaper.jpg
+    home_home2apps_button.png
+    home_home2apps_button_pressed.png
+    home_pagemarker.png
+    home_pagemarker_selected.png
+    home_pagemarker_more.png
+    apps_wallpaper.jpg
+    apps_apps2home_button.png
+    apps_apps2home_button_pressed.png
+    apps_pagemarker.png
+    apps_pagemarker_selected.png
+    apps_pagemarker_more.png
+application_icons/ 
     {{{_browser.png}}} 
     {{{_calendar.png}}} 
     {{{_camera.png}}} 
