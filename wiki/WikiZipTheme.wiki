@@ -103,8 +103,8 @@ http://nemuslauncher-themes.googlecode.com/files/appsss1.png
 
 ||`file name`||`preview`||`note`||`pixel size (240density)`||
 ||`home_wallpaper.jpg`|| || `opaque image` ||`960 x 800`||
-||`home_home2apps_button.png`|| `A` || || ||
-||`home_home2apps_button_pressed.png`|| || `pressed state` || ||
+||`home_home2apps_button.png`|| `A` || || `88 x 100` ||
+||`home_home2apps_button_pressed.png`|| || `pressed state` || `88 x 100` ||
 ||`home_pagemarker.png`|| B || `not current page` || `15 x 15` ||
 ||`home_pagemarker_selected.png`|| C || `current page` || `15 x 15` ||
 ||`apps_wallpaper.jpg`|| || `opaque image` ||`480 x 745`||
