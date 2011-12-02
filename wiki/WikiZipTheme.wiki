@@ -180,7 +180,6 @@ images/
     home_home2apps_button_pressed.png
     home_pagemarker.png
     home_pagemarker_selected.png
-    home_pagemarker_more.png
     apps_wallpaper.jpg
     apps_apps2home_button.png
     apps_apps2home_button_pressed.png
