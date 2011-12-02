@@ -49,7 +49,7 @@ Theme zip file should contain following files and sub folders.
 
 ----
 
-=== info.xml ===
+=== info.xml (Mandatory)===
 
 Mandatory file that specifies *theme name* and *target dpi*.
 
@@ -81,7 +81,7 @@ Following is an info.xml excerption from a theme which is named "_!BlackAndWhite
 !NemusLauncher will not allow to apply your theme if it's target density doesn't match your current device's density.
 
 ----
-=== preview.jpg ===
+=== preview.jpg (Optional)===
 
 As theme maker, you need the theme to contain preview images for the end user to recognize your theme easily. You can include *up to 3* preview files. Preview files themselves are not actual theme GUI component.
 
@@ -95,7 +95,7 @@ http://nemuslauncher-themes.googlecode.com/files/themess2.png
 http://nemuslauncher-themes.googlecode.com/files/themess3.png
 
 ----
-=== images folder ===
+=== images folder (Optional) ===
 *images* folder contains predefined GUI resources. The lists are as following.
 
 http://nemuslauncher-themes.googlecode.com/files/homess2.png
@@ -116,7 +116,7 @@ http://nemuslauncher-themes.googlecode.com/files/appsss1.png
 
 
 ----
-=== application_icons folder ===
+=== application_icons folder (Optional) ===
 *application_icons* folder contains new themed icons for installed applications on the end user's device. You can make mappings from your new theme icons to the installed applications with the file naming rule that is described here.
 
 
