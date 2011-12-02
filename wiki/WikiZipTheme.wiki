@@ -1,6 +1,6 @@
 #summary About zip compressed theme
 
-= Zip compressed theme =
+= Zip file theme =
 
 Make a theme zip file (which is a normal "zip" file) containing various xml, png, jpg files that are named by rules described by this document. You can use that zip file as a !NemusLauncher theme.
 
@@ -10,12 +10,13 @@ Make a theme zip file (which is a normal "zip" file) containing various xml, png
  * application icons
  * workspace wallpaper image
  * all apps list background image
- * all apps button background & foreground images
- * pagemarker images 
+ * home & all apps switch button images
+ * pagemarker images
+ * (more items will be added later)
 
 
 <br><br>
-== Template zip file downloads ==
+== Template zip file theme downloads ==
 
  * [http://nemuslauncher-themes.googlecode.com/files/DefaultGUITheme_r3.zip Zip theme template containing default GUI]
  * [http://nemuslauncher-themes.googlecode.com/files/ExampleTheme_r3.zip Zip theme template containing example theme GUI]
@@ -45,8 +46,9 @@ Theme zip file should contain following files and sub folders.
  * `images` folder
  * `application_icons` folder
 
-*info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders if you don't want to customize those UI elements with your theme.
+*info.xml file is mandatory* and the others are all optional. You can safely omit optional files or folders that you don't want to customize with your theme.
 
+<br>
 ----
 
 === info.xml (Mandatory)===
