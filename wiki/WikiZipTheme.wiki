@@ -1,4 +1,5 @@
 #summary About zip compressed theme
+#labels Featured
 
 = Zip file theme =
 
