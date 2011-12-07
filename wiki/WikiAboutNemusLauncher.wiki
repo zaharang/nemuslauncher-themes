@@ -1,4 +1,5 @@
 #summary A quick introduction to NemusLauncher
+#labels Featured
 
 = !NemusLauncher =
 
