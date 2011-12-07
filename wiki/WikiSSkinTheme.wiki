@@ -1,4 +1,5 @@
 #summary Using SSkin theme
+#labels Featured
 
 = SSkin theme =
 
