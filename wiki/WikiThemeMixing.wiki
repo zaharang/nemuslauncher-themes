@@ -2,4 +2,4 @@
 
 = Theme mixing =
 
-Theme mixing will be supported on next release of NemusLauncher
+Theme mixing will be supported on next release of !NemusLauncher
