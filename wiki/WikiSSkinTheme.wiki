@@ -12,7 +12,7 @@ You can use high quality SSkin themes that are already available (*free* or *pai
 NOTE:
 
  SSkin themes are not made for !NemusLauncher and they are supposed to be used along with
-their dedicated "SSkin Butterfly Launcher". !NemusLauncher is just another "compatible" launcher
+their dedicated "SSkin Butterfly Launcher". NemusLauncher is just another "compatible" launcher
 for the SSkin themes and does not guarantee full functionality for the SSkin themes. 
 </pre>
 <br>
