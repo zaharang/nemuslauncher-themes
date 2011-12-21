@@ -158,6 +158,7 @@ For the Rule 3, you can use predefined short name list as following.
 ||Browser||`_browser.png`||
 ||Calendar||`_calendar.png`||
 ||Camera||`_camera.png`||
+||Clock||`_clock.png`||
 ||Contact||`_contact.png`||
 ||EMail||`_email.png`||
 ||Gallery||`_gallery.png`||
@@ -193,6 +194,7 @@ application_icons/
     {{{_browser.png}}} 
     {{{_calendar.png}}} 
     {{{_camera.png}}} 
+    {{{_clock.png}}} 
     {{{_contact.png}}} 
     {{{_email.png}}} 
     {{{_gallery.png}}} 
