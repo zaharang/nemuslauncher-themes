@@ -13,7 +13,11 @@ NOTE:
 
  SSkin themes are not made for !NemusLauncher and they are supposed to be used along with
 their dedicated "SSkin Butterfly Launcher". NemusLauncher is just another "compatible" launcher
-for the SSkin themes and does not guarantee full functionality for the SSkin themes. 
+for the SSkin themes and does not guarantee full functionality for the SSkin themes.
+
+ Currently the SSkin themes from Android market require 'SSkin Butterfly Launcher'
+as prerequisite at their installation time, that you need to install 'SSkin Butterfly Launcher' first
+to use them with NemusLauncher.
 </pre>
 <br>
 
