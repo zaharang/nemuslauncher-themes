@@ -117,7 +117,7 @@ http://nemuslauncher-themes.googlecode.com/files/appsss1.png
 ||`apps_pagemarker_selected.png`|| `F` || `current page` || `15 x 15` ||
 ||`apps_pagemarker_more.png`|| `G` || `Meaning 'more pages'` || `15 x 15` ||
 
-Rule of thumb about densities other than 240
+Rule of thumb about image pixel size for densities other than 240
  * Image pixel sizes vary according to density ratio. 
 For example, apps_pagemarker.png becomes 10 x 10 for 160 density (that is 15*160/240 x 15*160/240) 
 and becomes 20 x 20 for 320 density (that is 15*320/240 x 15*320/240).
